@@ -112,7 +112,7 @@ Verificação do container em execução:
 
 ---
 
-## Melhorias futuras
+## 📈 Melhorias futuras
 
 - CI/CD com GitHub Actions
 - Deploy automático na AWS
